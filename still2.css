@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: url('fundal.jpg') center center/cover no-repeat fixed;
+    color: #fff;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+nav {
+    background-color: #444;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.logo {
+    float: left;
+    margin-right: 20px;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.recipe {
+    margin-bottom: 30px;
+}
+
+.recipe-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe h3 {
+    color: #fff;
+    margin-top: 10px;
+}
+
+.recipe p {
+    color: #ddd;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
