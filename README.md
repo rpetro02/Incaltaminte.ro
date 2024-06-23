@@ -74,4 +74,6 @@ Subsolul
 <footer>: Conține informațiile din subsolul paginii:
 Un paragraf (<p>) care conține drepturile de autor și anul.
 
+Rezumat
 
+Această pagină HTML pentru "Andrea's Cooking" este bine structurată, având un antet cu logo și titlu, un meniu de navigare cu linkuri către diferite secțiuni, o secțiune principală care întâmpină vizitatorii și oferă informații despre site, și un subsol care conține drepturile de autor. De asemenea, folosește o foaie de stil CSS externă pentru a adăuga stiluri personalizate.
